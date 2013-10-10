@@ -5,4 +5,4 @@ Northeastern University
 
 EECE4572 - Communication Systems
 
-Prof. Militsa Sojanovic
+Prof. Milica Stojanovic
